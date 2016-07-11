@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -729,6 +730,57 @@
               "2",
               "[@toomasr](https://github.com/toomasr)/[**lazy-dev-snippets**](https://github.com/toomasr/lazy-dev-snippets)",
               "Snippets for the Lazy Developers",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "33",
+              "[@discosultan](https://github.com/discosultan)/[**penumbra**](https://github.com/discosultan/penumbra)",
+              "2D lighting with soft shadows for MonoGame",
+              ""
+            ],
+            [
+              "28",
+              "[@discosultan](https://github.com/discosultan)/[**quake-console**](https://github.com/discosultan/quake-console)",
+              "Quake-style console for MonoGame",
+              ""
+            ],
+            [
+              "17",
+              "[@amPerl](https://github.com/amPerl)/[**Coob**](https://github.com/amPerl/Coob)",
+              "A CubeWorld Server",
+              ""
+            ],
+            [
+              "6",
+              "[@gpeipman](https://github.com/gpeipman)/[**Windows-Phone-7-Expe…**](https://github.com/gpeipman/Windows-Phone-7-Experiments)",
+              "My Windows Phone 7 experiments and examples",
+              "[:arrow_upper_right:](http://weblogs.asp.net/gunnarpeipman)"
+            ],
+            [
+              "5",
+              "[@sandersaares](https://github.com/sandersaares)/[**nuget-package-author…**](https://github.com/sandersaares/nuget-package-authoring)",
+              "Example code to illustrate the authoring of NuGet packages",
+              ""
+            ],
+            [
+              "4",
+              "[@sala91](https://github.com/sala91)/[**word.NET**](https://github.com/sala91/word.NET)",
+              "ASP.net blogengine",
               ""
             ]
           ]
