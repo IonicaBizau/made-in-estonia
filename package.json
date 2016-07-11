@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -569,6 +570,165 @@
               "2",
               "[@DeadAlready](https://github.com/DeadAlready)/[**node-foldermap**](https://github.com/DeadAlready/node-foldermap)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "153",
+              "[@madisp](https://github.com/madisp)/[**pretty**](https://github.com/madisp/pretty)",
+              "A convenience library to process View attributes in Android layout files at runtime.",
+              ""
+            ],
+            [
+              "89",
+              "[@angryziber](https://github.com/angryziber)/[**simple-java**](https://github.com/angryziber/simple-java)",
+              "Code for the talk at GOTOCon Prague & Amsterdam about writing simple web apps - Plain Simple Java, and another one at Topconf - 3 tales of testing DB-enabled apps",
+              "[:arrow_upper_right:](http://gotocon.com/prague-2011/presentation/How+to+get+Java+back)"
+            ],
+            [
+              "65",
+              "[@toomasr](https://github.com/toomasr)/[**skype-bot**](https://github.com/toomasr/skype-bot)",
+              "Skype Bot - In Kittens We Trust",
+              "[:arrow_upper_right:](http://toomasr.com/blog/2013/05/27/skype-bot-for-fun-and-profit/)"
+            ],
+            [
+              "8",
+              "[@angryziber](https://github.com/angryziber)/[**java-course**](https://github.com/angryziber/java-course)",
+              "Java course from Tallinn Technical University, 2005-2011",
+              ""
+            ],
+            [
+              "6",
+              "[@toomasr](https://github.com/toomasr)/[**liverebel-deploy-plu…**](https://github.com/toomasr/liverebel-deploy-plugin)",
+              "LiveRebel CI Deploy Plugin",
+              ""
+            ],
+            [
+              "5",
+              "[@lfbarragan](https://github.com/lfbarragan)/[**Banned-Interview-Que…**](https://github.com/lfbarragan/Banned-Interview-Questions)",
+              "Android experiment, created a simple UI to show Q&A for Job interviews but it could be use for any kind of Q&A",
+              ""
+            ],
+            [
+              "5",
+              "[@antonarhipov](https://github.com/antonarhipov)/[**asmdemo**](https://github.com/antonarhipov/asmdemo)",
+              "A basic example using ASM library for bytecode instrumentation",
+              ""
+            ],
+            [
+              "4",
+              "[@igorzep](https://github.com/igorzep)/[**hashcat**](https://github.com/igorzep/hashcat)",
+              "Small utility to search duplicate files on disk based on hash of the files. Can also find some 'broken' files based on similar beginning blocks. Everything is hard-coded to source code currently including paths to search and previously made indexes of external media.",
+              ""
+            ],
+            [
+              "4",
+              "[@antonarhipov](https://github.com/antonarhipov)/[**nanorest**](https://github.com/antonarhipov/nanorest)",
+              "A demo project for demonstrating the basics of JRebel plugin development",
+              "[:arrow_upper_right:](http://www.jrebel.com)"
+            ],
+            [
+              "3",
+              "[@toomasr](https://github.com/toomasr)/[**sgf4j**](https://github.com/toomasr/sgf4j)",
+              "Simple SGF Parser for Java",
+              ""
+            ],
+            [
+              "3",
+              "[@antonarhipov](https://github.com/antonarhipov)/[**jpoint**](https://github.com/antonarhipov/jpoint)",
+              "Demo project for \"Having fun with Javassist\" talk",
+              ""
+            ],
+            [
+              "3",
+              "[@madisp](https://github.com/madisp)/[**stupid**](https://github.com/madisp/stupid)",
+              "A stupid scripting language for Java/JVM",
+              ""
+            ],
+            [
+              "3",
+              "[@madisp](https://github.com/madisp)/[**trails**](https://github.com/madisp/trails)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lfbarragan](https://github.com/lfbarragan)/[**Kiss-The-Presidents**](https://github.com/lfbarragan/Kiss-The-Presidents)",
+              "Android experiment to play with the camera API. At the moment includes presidents from Venezuela, USA, France, China and North Korea. Feel free to check the code and add the president of your country",
+              ""
+            ],
+            [
+              "2",
+              "[@angryziber](https://github.com/angryziber)/[**patterns**](https://github.com/angryziber/patterns)",
+              "Design pattern Java demo code for an interactive talk at Agile Saturday VI",
+              ""
+            ],
+            [
+              "2",
+              "[@angryziber](https://github.com/angryziber)/[**crypto-talk**](https://github.com/angryziber/crypto-talk)",
+              "Example code for Digital Signatures talk",
+              "[:arrow_upper_right:](https://prezi.com/vsm7g2gbjtmy/digital-signatures/)"
+            ],
+            [
+              "2",
+              "[@jevgeni](https://github.com/jevgeni)/[**algo-class**](https://github.com/jevgeni/algo-class)",
+              "Algo-class",
+              ""
+            ],
+            [
+              "2",
+              "[@jevgeni](https://github.com/jevgeni)/[**testing-atmosphere**](https://github.com/jevgeni/testing-atmosphere)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jevgeni](https://github.com/jevgeni)/[**clojure-plugin**](https://github.com/jevgeni/clojure-plugin)",
+              "idea clojure plugin",
+              "[:arrow_upper_right:](http://plugins.intellij.net/plugin/?id=4050)"
+            ],
+            [
+              "2",
+              "[@igorzep](https://github.com/igorzep)/[**cocoon-springificati…**](https://github.com/igorzep/cocoon-springification)",
+              "Springification of Cocoon 3",
+              ""
+            ],
+            [
+              "2",
+              "[@timasjov](https://github.com/timasjov)/[**multithreaded-tcp-se…**](https://github.com/timasjov/multithreaded-tcp-server)",
+              "Simple multithreaded TCP sever",
+              ""
+            ],
+            [
+              "2",
+              "[@lsaffre](https://github.com/lsaffre)/[**eidreader**](https://github.com/lsaffre/eidreader)",
+              "International eID card reader",
+              ""
+            ],
+            [
+              "2",
+              "[@madisp](https://github.com/madisp)/[**divide-and-conquer**](https://github.com/madisp/divide-and-conquer)",
+              "A fork of the Divide and Conquer Android sample game",
+              ""
+            ],
+            [
+              "2",
+              "[@toomasr](https://github.com/toomasr)/[**lazy-dev-snippets**](https://github.com/toomasr/lazy-dev-snippets)",
+              "Snippets for the Lazy Developers",
               ""
             ]
           ]
