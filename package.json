@@ -62,7 +62,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -2115,6 +2116,27 @@
               "2",
               "[@Villane](https://github.com/Villane)/[**paw**](https://github.com/Villane/paw)",
               "Scala based libraries for (web) application development",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@usrme](https://github.com/usrme)/[**ghost-update**](https://github.com/usrme/ghost-update)",
+              "Ghost updating script",
               ""
             ]
           ]
