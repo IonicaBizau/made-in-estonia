@@ -38,5 +38,542 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-estonia/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-estonia#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-estonia#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1416",
+              "[@andris9](https://github.com/andris9)/[**jStorage**](https://github.com/andris9/jStorage)",
+              "jStorage is a simple key/value database to store data on browser side",
+              "[:arrow_upper_right:](http://www.jstorage.info)"
+            ],
+            [
+              "788",
+              "[@andris9](https://github.com/andris9)/[**mailparser**](https://github.com/andris9/mailparser)",
+              "Decode mime formatted e-mails",
+              ""
+            ],
+            [
+              "358",
+              "[@andris9](https://github.com/andris9)/[**simplesmtp**](https://github.com/andris9/simplesmtp)",
+              "Simple SMTP server/client module",
+              "[:arrow_upper_right:](http://documentup.com/andris9/simplesmtp/)"
+            ],
+            [
+              "292",
+              "[@andris9](https://github.com/andris9)/[**simpleStorage**](https://github.com/andris9/simpleStorage)",
+              "Cross-browser key-value store database to store data locally in the browser. Simpler fork of jStorage",
+              ""
+            ],
+            [
+              "194",
+              "[@andris9](https://github.com/andris9)/[**node-markdown**](https://github.com/andris9/node-markdown)",
+              "Parse Markdown syntax with Node.JS",
+              ""
+            ],
+            [
+              "193",
+              "[@andris9](https://github.com/andris9)/[**pem**](https://github.com/andris9/pem)",
+              "Create private keys and certificates with node.js",
+              ""
+            ],
+            [
+              "192",
+              "[@andris9](https://github.com/andris9)/[**smtp-server**](https://github.com/andris9/smtp-server)",
+              "Create custom SMTP servers on the fly",
+              ""
+            ],
+            [
+              "109",
+              "[@martintajur](https://github.com/martintajur)/[**node-mysql-activerec…**](https://github.com/martintajur/node-mysql-activerecord)",
+              "MySQL ActiveRecord Adapter for Node.js (tags: nodejs, node, mysql, active record, activerecord)",
+              ""
+            ],
+            [
+              "103",
+              "[@harrisiirak](https://github.com/harrisiirak)/[**cron-parser**](https://github.com/harrisiirak/cron-parser)",
+              "Node.js library for parsing crontab instructions",
+              ""
+            ],
+            [
+              "103",
+              "[@andris9](https://github.com/andris9)/[**fetch**](https://github.com/andris9/fetch)",
+              "Fetch URL contents with Node.js",
+              ""
+            ],
+            [
+              "103",
+              "[@kirstein](https://github.com/kirstein)/[**angular-disqus**](https://github.com/kirstein/angular-disqus)",
+              "A set of directive(s) and services for disqus to simplify the life of developers.",
+              "[:arrow_upper_right:](kirstein.github.com/angular-disqus)"
+            ],
+            [
+              "98",
+              "[@andris9](https://github.com/andris9)/[**node-gettext**](https://github.com/andris9/node-gettext)",
+              "Gettext module For Node.JS to use .MO and .PO files",
+              ""
+            ],
+            [
+              "96",
+              "[@andris9](https://github.com/andris9)/[**stylus-sprite**](https://github.com/andris9/stylus-sprite)",
+              "Generate sprites with Stylus",
+              "[:arrow_upper_right:](http://kreata.ee/stylus-sprite/)"
+            ],
+            [
+              "93",
+              "[@andris9](https://github.com/andris9)/[**node-gearman**](https://github.com/andris9/node-gearman)",
+              "",
+              ""
+            ],
+            [
+              "89",
+              "[@andris9](https://github.com/andris9)/[**highlight**](https://github.com/andris9/highlight)",
+              "Syntax highlighter for Node.JS",
+              ""
+            ],
+            [
+              "86",
+              "[@kallaspriit](https://github.com/kallaspriit)/[**HTML5-JavaScript-Gam…**](https://github.com/kallaspriit/HTML5-JavaScript-Gamepad-Controller-Library)",
+              "Library for accessing gamepads in modern browsers.",
+              "[:arrow_upper_right:](http://kallaspriit.github.com/HTML5-JavaScript-Gamepad-Controller-Library/)"
+            ],
+            [
+              "77",
+              "[@andris9](https://github.com/andris9)/[**nodemailer-ses-trans…**](https://github.com/andris9/nodemailer-ses-transport)",
+              "AWS SES transport for Nodemailer",
+              ""
+            ],
+            [
+              "69",
+              "[@andris9](https://github.com/andris9)/[**NodePie**](https://github.com/andris9/NodePie)",
+              "RSS/Atom parser for Node.JS",
+              ""
+            ],
+            [
+              "69",
+              "[@andris9](https://github.com/andris9)/[**mimelib**](https://github.com/andris9/mimelib)",
+              "Mime related functions for Node.JS",
+              ""
+            ],
+            [
+              "56",
+              "[@kirstein](https://github.com/kirstein)/[**angular-autodisable**](https://github.com/kirstein/angular-autodisable)",
+              "ngAutodisable directive for angular. Automatic disable for buttons rocks!",
+              "[:arrow_upper_right:](http://jsfiddle.net/kirstein/wXnks/embedded/result/)"
+            ],
+            [
+              "49",
+              "[@andris9](https://github.com/andris9)/[**hoodiecrow**](https://github.com/andris9/hoodiecrow)",
+              "Scriptable IMAP server for client integration testing",
+              "[:arrow_upper_right:](http://andris9.github.io/hoodiecrow/)"
+            ],
+            [
+              "43",
+              "[@andris9](https://github.com/andris9)/[**n3**](https://github.com/andris9/n3)",
+              "pop3 server for node.js",
+              ""
+            ],
+            [
+              "34",
+              "[@DeadAlready](https://github.com/DeadAlready)/[**npm-ducttape**](https://github.com/DeadAlready/npm-ducttape)",
+              "",
+              ""
+            ],
+            [
+              "33",
+              "[@andris9](https://github.com/andris9)/[**xoauth2**](https://github.com/andris9/xoauth2)",
+              "XOAuth2 token generation with node.js",
+              ""
+            ],
+            [
+              "30",
+              "[@andris9](https://github.com/andris9)/[**gettext-parser**](https://github.com/andris9/gettext-parser)",
+              "Parse and compile gettext po and mo files, nothing more, nothing less",
+              ""
+            ],
+            [
+              "29",
+              "[@andris9](https://github.com/andris9)/[**encoding**](https://github.com/andris9/encoding)",
+              "Encode/decode strings with node-iconv and iconv-lite",
+              ""
+            ],
+            [
+              "26",
+              "[@msokk](https://github.com/msokk)/[**electron-render-serv…**](https://github.com/msokk/electron-render-service)",
+              "Microservice for rendering PDF/PNG/JPEG from HTML with Electron",
+              ""
+            ],
+            [
+              "25",
+              "[@andris9](https://github.com/andris9)/[**node-jsonrpc**](https://github.com/andris9/node-jsonrpc)",
+              "JSON-RPC handler for Node.JS",
+              ""
+            ],
+            [
+              "25",
+              "[@andris9](https://github.com/andris9)/[**nodemailer-markdown**](https://github.com/andris9/nodemailer-markdown)",
+              "Adds `markdown` property to Nodemailer e-mail data",
+              ""
+            ],
+            [
+              "25",
+              "[@harrisiirak](https://github.com/harrisiirak)/[**webhdfs**](https://github.com/harrisiirak/webhdfs)",
+              "Node.js WebHDFS REST API client",
+              ""
+            ],
+            [
+              "21",
+              "[@andris9](https://github.com/andris9)/[**nodemailer-dkim**](https://github.com/andris9/nodemailer-dkim)",
+              "DKIM signing for Nodemailer",
+              ""
+            ],
+            [
+              "21",
+              "[@andris9](https://github.com/andris9)/[**gearnode**](https://github.com/andris9/gearnode)",
+              "Gearman worker and client for Node.js",
+              ""
+            ],
+            [
+              "21",
+              "[@andris9](https://github.com/andris9)/[**pubsubhubbub**](https://github.com/andris9/pubsubhubbub)",
+              "PubSubHubbub subscriber",
+              ""
+            ],
+            [
+              "21",
+              "[@deiwin](https://github.com/deiwin)/[**ngImageInputWithPrev…**](https://github.com/deiwin/ngImageInputWithPreview)",
+              "A FileReader based Angular directive to easily preview and upload image files",
+              "[:arrow_upper_right:](http://deiwin.github.io/ngImageInputWithPreview/)"
+            ],
+            [
+              "20",
+              "[@andris9](https://github.com/andris9)/[**nodemailer-html-to-t…**](https://github.com/andris9/nodemailer-html-to-text)",
+              "Nodemailer plugin to generate text content from HTML",
+              ""
+            ],
+            [
+              "19",
+              "[@andris9](https://github.com/andris9)/[**nodemailer-stub-tran…**](https://github.com/andris9/nodemailer-stub-transport)",
+              "Stub transport for testing Nodemailer e-mails",
+              ""
+            ],
+            [
+              "19",
+              "[@nene](https://github.com/nene)/[**filter-row**](https://github.com/nene/filter-row)",
+              "FilterRow plugin for Ext.grid.GridPanel",
+              "[:arrow_upper_right:](http://triin.net/temp/filter-row/)"
+            ],
+            [
+              "18",
+              "[@peeter-tomberg](https://github.com/peeter-tomberg)/[**tailjs**](https://github.com/peeter-tomberg/tailjs)",
+              "",
+              ""
+            ],
+            [
+              "18",
+              "[@rla](https://github.com/rla)/[**sql-sync**](https://github.com/rla/sql-sync)",
+              "Offline replication between SQLite (clients) and MySQL (master).",
+              ""
+            ],
+            [
+              "16",
+              "[@andris9](https://github.com/andris9)/[**rai**](https://github.com/andris9/rai)",
+              "Request-Answer-Interface",
+              ""
+            ],
+            [
+              "15",
+              "[@andris9](https://github.com/andris9)/[**nodemailer-sendmail-…**](https://github.com/andris9/nodemailer-sendmail-transport)",
+              "Sendmail transport for Nodemailer",
+              ""
+            ],
+            [
+              "14",
+              "[@deiwin](https://github.com/deiwin)/[**ngGeolocator**](https://github.com/deiwin/ngGeolocator)",
+              "Let the user tell you where they are with the aid of HTML5 Geolocation API and Google Maps.",
+              "[:arrow_upper_right:](http://deiwin.github.io/ngGeolocator/)"
+            ],
+            [
+              "14",
+              "[@andris9](https://github.com/andris9)/[**torfetch**](https://github.com/andris9/torfetch)",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "[@DeadAlready](https://github.com/DeadAlready)/[**easy-rbac**](https://github.com/DeadAlready/easy-rbac)",
+              "RBAC implementation for Node.js",
+              ""
+            ],
+            [
+              "13",
+              "[@nene](https://github.com/nene)/[**jintervals**](https://github.com/nene/jintervals)",
+              "JavaScript library for time intervals formatting",
+              "[:arrow_upper_right:](http://code.google.com/p/jintervals/)"
+            ],
+            [
+              "10",
+              "[@koliada](https://github.com/koliada)/[**FireTasks**](https://github.com/koliada/FireTasks)",
+              "A Google Tasks client for Firefox OS",
+              ""
+            ],
+            [
+              "10",
+              "[@rla](https://github.com/rla)/[**prolog-target-js**](https://github.com/rla/prolog-target-js)",
+              "Simple Prolog to JS transpiler",
+              ""
+            ],
+            [
+              "10",
+              "[@martintajur](https://github.com/martintajur)/[**Maverick**](https://github.com/martintajur/Maverick)",
+              "Javascript-based MVC framework",
+              "[:arrow_upper_right:](http://maverick.round.ee)"
+            ],
+            [
+              "9",
+              "[@DeadAlready](https://github.com/DeadAlready)/[**node-easy-config**](https://github.com/DeadAlready/node-easy-config)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@kallaspriit](https://github.com/kallaspriit)/[**Robocup-Simulator**](https://github.com/kallaspriit/Robocup-Simulator)",
+              "Visual omni-wheels based robot simulator on HTML5 technologies",
+              "[:arrow_upper_right:](http://kallaspriit.github.com/Robocup-Simulator/)"
+            ],
+            [
+              "6",
+              "[@DeadAlready](https://github.com/DeadAlready)/[**node-easy-session**](https://github.com/DeadAlready/node-easy-session)",
+              "Improved security and session management for express/connect",
+              ""
+            ],
+            [
+              "5",
+              "[@kirstein](https://github.com/kirstein)/[**generator-node-cs**](https://github.com/kirstein/generator-node-cs)",
+              "Yeoman generator for node-coffeescript with no excess bullshit",
+              ""
+            ],
+            [
+              "5",
+              "[@kallaspriit](https://github.com/kallaspriit)/[**KalmanJS**](https://github.com/kallaspriit/KalmanJS)",
+              "JavaScript implementation and interactive playground for Kalman filters.",
+              "[:arrow_upper_right:](http://kallaspriit.github.com/KalmanJS/)"
+            ],
+            [
+              "5",
+              "[@DeadAlready](https://github.com/DeadAlready)/[**node-zuora**](https://github.com/DeadAlready/node-zuora)",
+              "ZuoraAPI",
+              ""
+            ],
+            [
+              "4",
+              "[@egonelbre](https://github.com/egonelbre)/[**jstricks**](https://github.com/egonelbre/jstricks)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@egonelbre](https://github.com/egonelbre)/[**neuro**](https://github.com/egonelbre/neuro)",
+              "Neural Network Simulation",
+              ""
+            ],
+            [
+              "4",
+              "[@kallaspriit](https://github.com/kallaspriit)/[**APP5**](https://github.com/kallaspriit/APP5)",
+              "HTML5 Application Framework",
+              ""
+            ],
+            [
+              "3",
+              "[@krishaamer](https://github.com/krishaamer)/[**TomeApp**](https://github.com/krishaamer/TomeApp)",
+              "Tomé Storyworld Companion for the iPhone",
+              ""
+            ],
+            [
+              "3",
+              "[@msokk](https://github.com/msokk)/[**webrtc-talk**](https://github.com/msokk/webrtc-talk)",
+              "Slides and demo for Tallinn HTML5 <Pre>Summer Meetup",
+              ""
+            ],
+            [
+              "3",
+              "[@msokk](https://github.com/msokk)/[**smog**](https://github.com/msokk/smog)",
+              "Pluggable comet chatroom written in NodeJS ",
+              "[:arrow_upper_right:](http://smog.no.de)"
+            ],
+            [
+              "3",
+              "[@harrisiirak](https://github.com/harrisiirak)/[**oauth-client**](https://github.com/harrisiirak/oauth-client)",
+              "Yet another Node.js OAauth library",
+              ""
+            ],
+            [
+              "3",
+              "[@kirstein](https://github.com/kirstein)/[**angular-routeblocker**](https://github.com/kirstein/angular-routeblocker)",
+              "Angular module that helps controlling registered route triggering",
+              ""
+            ],
+            [
+              "3",
+              "[@kallaspriit](https://github.com/kallaspriit)/[**JavaScript-ViewRight…**](https://github.com/kallaspriit/JavaScript-ViewRight-Player)",
+              "JavaScript wrapper library for the ViewRight player.",
+              "[:arrow_upper_right:](http://kallaspriit.github.io/JavaScript-ViewRight-Player/)"
+            ],
+            [
+              "3",
+              "[@martintajur](https://github.com/martintajur)/[**Engine.IO-app-boiler…**](https://github.com/martintajur/Engine.IO-app-boilerplate-example)",
+              "A simple chat application based on Engine.IO boilerplate. Coded in less than 5 minutes during a HTML5 meetup in Tallinn, Estonia.",
+              ""
+            ],
+            [
+              "3",
+              "[@martintajur](https://github.com/martintajur)/[**Engine.IO-app-boiler…**](https://github.com/martintajur/Engine.IO-app-boilerplate)",
+              "A lightweight boilerplate application for creating real-time application on top of Engine.IO",
+              ""
+            ],
+            [
+              "3",
+              "[@egonelbre](https://github.com/egonelbre)/[**spector**](https://github.com/egonelbre/spector)",
+              "Trace inspector for Go.",
+              ""
+            ],
+            [
+              "2",
+              "[@rla](https://github.com/rla)/[**cworklog-android**](https://github.com/rla/cworklog-android)",
+              "Android app to access CWorkLog through the online API",
+              ""
+            ],
+            [
+              "2",
+              "[@rla](https://github.com/rla)/[**estimator**](https://github.com/rla/estimator)",
+              "Simple project schedule estimator",
+              ""
+            ],
+            [
+              "2",
+              "[@DeadAlready](https://github.com/DeadAlready)/[**node-ssl-keygen**](https://github.com/DeadAlready/node-ssl-keygen)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@kallaspriit](https://github.com/kallaspriit)/[**react-flux-requirejs…**](https://github.com/kallaspriit/react-flux-requirejs-grunt-seed)",
+              "Seed project for building an application based on Facebook's React, the Flux architecture, requirejs modules and grunt build plaatform",
+              ""
+            ],
+            [
+              "2",
+              "[@nene](https://github.com/nene)/[**touch-docs**](https://github.com/nene/touch-docs)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@boxmein](https://github.com/boxmein)/[**starcatcher-script-s…**](https://github.com/boxmein/starcatcher-script-server-design)",
+              "Frontend HTML, design and interactivity for a Lua script hoster/manager - for @cracker64 and @jacob1.",
+              "[:arrow_upper_right:](http://starcatcher.us/scripts/)"
+            ],
+            [
+              "2",
+              "[@boxmein](https://github.com/boxmein)/[**UserEdits**](https://github.com/boxmein/UserEdits)",
+              "User edits to various sites.",
+              ""
+            ],
+            [
+              "2",
+              "[@LunaSquee](https://github.com/LunaSquee)/[**squeebot**](https://github.com/LunaSquee/squeebot)",
+              "The IRC Bot of LunaSquee",
+              ""
+            ],
+            [
+              "2",
+              "[@LunaSquee](https://github.com/LunaSquee)/[**DerpyIRC**](https://github.com/LunaSquee/DerpyIRC)",
+              "Former web IRC client for pony fans [Discontinued]",
+              ""
+            ],
+            [
+              "2",
+              "[@nene](https://github.com/nene)/[**mrequires**](https://github.com/nene/mrequires)",
+              "Median JS loader and builder",
+              ""
+            ],
+            [
+              "2",
+              "[@egonelbre](https://github.com/egonelbre)/[**fuse-ed**](https://github.com/egonelbre/fuse-ed)",
+              "fluid designing/diagramming tool",
+              "[:arrow_upper_right:](fuse-ed.appspot.com)"
+            ],
+            [
+              "2",
+              "[@nene](https://github.com/nene)/[**extract_ext_define**](https://github.com/nene/extract_ext_define)",
+              "Extract members from Ext.define(...)",
+              ""
+            ],
+            [
+              "2",
+              "[@rla](https://github.com/rla)/[**phantomjs-dirty**](https://github.com/rla/phantomjs-dirty)",
+              "Dirty-compatible key-value database for PhantomJS",
+              ""
+            ],
+            [
+              "2",
+              "[@nene](https://github.com/nene)/[**obfunctional**](https://github.com/nene/obfunctional)",
+              "JavaScript library based on Functional JS",
+              ""
+            ],
+            [
+              "2",
+              "[@rla](https://github.com/rla)/[**wdt**](https://github.com/rla/wdt)",
+              "Widget-styled object-oriented DOM helper",
+              ""
+            ],
+            [
+              "2",
+              "[@peeter-tomberg](https://github.com/peeter-tomberg)/[**hapi-mongodb-promise…**](https://github.com/peeter-tomberg/hapi-mongodb-promises)",
+              "A simple Hapi MongoDB connection plugin with baked in promises. ",
+              ""
+            ],
+            [
+              "2",
+              "[@rla](https://github.com/rla)/[**concatter**](https://github.com/rla/concatter)",
+              "Single-file app js concat utility",
+              ""
+            ],
+            [
+              "2",
+              "[@nene](https://github.com/nene)/[**rewriter**](https://github.com/nene/rewriter)",
+              "A proof-of-concept JavaScript compiler that optimizes the speed of array iteration.",
+              ""
+            ],
+            [
+              "2",
+              "[@DeadAlready](https://github.com/DeadAlready)/[**node-foldermap**](https://github.com/DeadAlready/node-foldermap)",
+              "",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
