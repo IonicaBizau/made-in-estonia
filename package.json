@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -831,6 +832,93 @@
               "2",
               "[@raxsade](https://github.com/raxsade)/[**youtube-embedder**](https://github.com/raxsade/youtube-embedder)",
               "Compiles an advanced html snippet for embedding a YouTube player on a web page",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "20",
+              "[@berkus](https://github.com/berkus)/[**libnat**](https://github.com/berkus/libnat)",
+              "Libraries for NAT traversal and hole punching",
+              ""
+            ],
+            [
+              "14",
+              "[@berkus](https://github.com/berkus)/[**wkdm**](https://github.com/berkus/wkdm)",
+              "Apple XNU WKdm fast memory page compressor",
+              ""
+            ],
+            [
+              "8",
+              "[@leio](https://github.com/leio)/[**libdvbsub**](https://github.com/leio/libdvbsub)",
+              "Library for DVB subtitles parsing and preparation for display",
+              ""
+            ],
+            [
+              "8",
+              "[@ErintLabs](https://github.com/ErintLabs)/[**bezier-fragment-shad…**](https://github.com/ErintLabs/bezier-fragment-shader-demo)",
+              "A sample implementation of the approach outlined in: http://research.microsoft.com/apps/pubs/…",
+              ""
+            ],
+            [
+              "3",
+              "[@leio](https://github.com/leio)/[**gst-missing-plugins-…**](https://github.com/leio/gst-missing-plugins-gentoo)",
+              "GStreamer missing plugin handling for Gentoo Linux",
+              ""
+            ],
+            [
+              "2",
+              "[@Blefish](https://github.com/Blefish)/[**android_bootable_boo…**](https://github.com/Blefish/android_bootable_bootloader_lk)",
+              "Huawei IDEOS X5 Little Kernel Bootloader",
+              ""
+            ],
+            [
+              "2",
+              "[@artuuuro](https://github.com/artuuuro)/[**vasp_tools**](https://github.com/artuuuro/vasp_tools)",
+              "Various tools for VASP",
+              ""
+            ],
+            [
+              "2",
+              "[@andresv](https://github.com/andresv)/[**UTFT-Energia**](https://github.com/andresv/UTFT-Energia)",
+              "Energia port of the Henning Karlsen's UTFT library",
+              ""
+            ],
+            [
+              "2",
+              "[@manumanfred](https://github.com/manumanfred)/[**device-samsung-tuna**](https://github.com/manumanfred/device-samsung-tuna)",
+              "A common device tree for Galaxy Nexus. Lp 5.1.1",
+              ""
+            ],
+            [
+              "2",
+              "[@berkus](https://github.com/berkus)/[**anic**](https://github.com/berkus/anic)",
+              "Automatically exported from code.google.com/p/anic",
+              ""
+            ],
+            [
+              "2",
+              "[@ErintLabs](https://github.com/ErintLabs)/[**SDL_image**](https://github.com/ErintLabs/SDL_image)",
+              "An up-to-date SDL_image repository unofficial git mirror. Will be maintained until Git starts supporting foreign submodules.",
+              ""
+            ],
+            [
+              "2",
+              "[@berkus](https://github.com/berkus)/[**opus**](https://github.com/berkus/opus)",
+              "OPUS audio codec, patched up and with CMake build setup",
               ""
             ]
           ]
