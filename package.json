@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -1055,6 +1056,81 @@
               "2",
               "[@MastaP](https://github.com/MastaP)/[**ATP-in-Haskell**](https://github.com/MastaP/ATP-in-Haskell)",
               "A playground for implementing automated theorem provers in Haskell",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "24",
+              "[@henrinormak](https://github.com/henrinormak)/[**NORMarkdownParser**](https://github.com/henrinormak/NORMarkdownParser)",
+              "A lightweight wrapper around the hoedown Markdown parser, turning Markdown into NSAttributedString.",
+              ""
+            ],
+            [
+              "16",
+              "[@laevandus](https://github.com/laevandus)/[**NSTextFieldHyperlink…**](https://github.com/laevandus/NSTextFieldHyperlinks)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@laevandus](https://github.com/laevandus)/[**MyTunesController**](https://github.com/laevandus/MyTunesController)",
+              "Lightweight application for controlling iTunes on Mac OS X. Additionally fetches and shows lyrics.",
+              ""
+            ],
+            [
+              "9",
+              "[@w-i-n-s](https://github.com/w-i-n-s)/[**SimplePlugin**](https://github.com/w-i-n-s/SimplePlugin)",
+              "SimplePlugin for MacOS 10.9 (Mail.app 7.0)",
+              ""
+            ],
+            [
+              "8",
+              "[@henrinormak](https://github.com/henrinormak)/[**UIColor-HNExtensions**](https://github.com/henrinormak/UIColor-HNExtensions)",
+              "A grab-bag of different UIColor related extensions",
+              ""
+            ],
+            [
+              "7",
+              "[@henrinormak](https://github.com/henrinormak)/[**GOPlacesAutocomplete**](https://github.com/henrinormak/GOPlacesAutocomplete)",
+              "Lightweight Objective-C wrappers around Google Places Autocomplete and Details APIs",
+              ""
+            ],
+            [
+              "4",
+              "[@laevandus](https://github.com/laevandus)/[**Lookout**](https://github.com/laevandus/Lookout)",
+              "Demonstrates using QTKit for capturing video from multiple devices simultaneously",
+              ""
+            ],
+            [
+              "3",
+              "[@henrinormak](https://github.com/henrinormak)/[**UITokenTextField**](https://github.com/henrinormak/UITokenTextField)",
+              "UITokenTextField is a simple UIControl, that allows iOS",
+              ""
+            ],
+            [
+              "2",
+              "[@jaanussiim](https://github.com/jaanussiim)/[**ios-demo-lifter**](https://github.com/jaanussiim/ios-demo-lifter)",
+              "Demo project for 'floating' map annotations",
+              ""
+            ],
+            [
+              "2",
+              "[@laevandus](https://github.com/laevandus)/[**MyTunesControllerPlu…**](https://github.com/laevandus/MyTunesControllerPlugIns)",
+              "",
               ""
             ]
           ]
