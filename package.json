@@ -53,7 +53,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -982,6 +983,57 @@
               "[@bsideup](https://github.com/bsideup)/[**TrylogicFramework**](https://github.com/bsideup/TrylogicFramework)",
               "flex-like (non flex-based) ActionScript framework for web development (games, social, etc)",
               "[:arrow_upper_right:](http://www.trylogic.ru/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "17",
+              "[@toggl](https://github.com/toggl)/[**pipes-api**](https://github.com/toggl/pipes-api)",
+              "Pipes API",
+              ""
+            ],
+            [
+              "8",
+              "[@toggl](https://github.com/toggl)/[**crap**](https://github.com/toggl/crap)",
+              "A deployment tool similar to Capistrano, but simplerer",
+              ""
+            ],
+            [
+              "6",
+              "[@toggl](https://github.com/toggl)/[**pinger**](https://github.com/toggl/pinger)",
+              "An utility to monitor services",
+              "[:arrow_upper_right:](http://blog.toggl.com/2014/04/5-tips-servers-service-monitoring)"
+            ],
+            [
+              "5",
+              "[@toggl](https://github.com/toggl)/[**mango**](https://github.com/toggl/mango)",
+              "Mango imports data from third party services into Toggl",
+              ""
+            ],
+            [
+              "4",
+              "[@toggl](https://github.com/toggl)/[**bugsnag**](https://github.com/toggl/bugsnag)",
+              "bugsnag.com API client in Go",
+              ""
+            ],
+            [
+              "2",
+              "[@toggl](https://github.com/toggl)/[**go-freshbooks**](https://github.com/toggl/go-freshbooks)",
+              "This project implements a golang client library for the Freshbooks API",
+              ""
             ]
           ]
         }
