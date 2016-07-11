@@ -63,7 +63,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -2137,6 +2138,27 @@
               "5",
               "[@usrme](https://github.com/usrme)/[**ghost-update**](https://github.com/usrme/ghost-update)",
               "Ghost updating script",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "19",
+              "[@jbibtex](https://github.com/jbibtex)/[**jbibtex**](https://github.com/jbibtex/jbibtex)",
+              "Java BibTeX API",
               ""
             ]
           ]
