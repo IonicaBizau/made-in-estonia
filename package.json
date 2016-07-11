@@ -60,7 +60,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -1801,6 +1802,255 @@
               "2",
               "[@andybega](https://github.com/andybega)/[**R_utilities**](https://github.com/andybega/R_utilities)",
               "Useful functions for R, from a poli sci angle",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "487",
+              "[@moll](https://github.com/moll)/[**vim-node**](https://github.com/moll/vim-node)",
+              "Tools and environment to make Vim superb for developing with Node.js. Like Rails.vim for Node.",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4674)"
+            ],
+            [
+              "230",
+              "[@jarmo](https://github.com/jarmo)/[**require_all**](https://github.com/jarmo/require_all)",
+              "A wonderfully simple way to load Ruby code",
+              ""
+            ],
+            [
+              "125",
+              "[@moll](https://github.com/moll)/[**capistrano-rsync**](https://github.com/moll/capistrano-rsync)",
+              "Deploy with Rsync from any local (or remote) repository when using Capistrano. Capistrano v3 ready!",
+              ""
+            ],
+            [
+              "89",
+              "[@jarmo](https://github.com/jarmo)/[**RAutomation**](https://github.com/jarmo/RAutomation)",
+              "RAutomation",
+              ""
+            ],
+            [
+              "86",
+              "[@priithaamer](https://github.com/priithaamer)/[**rubydictionary**](https://github.com/priithaamer/rubydictionary)",
+              "RDoc generator that turns ruby documentation into Dictionary.app file on Mac.",
+              ""
+            ],
+            [
+              "82",
+              "[@jarmo](https://github.com/jarmo)/[**test-page**](https://github.com/jarmo/test-page)",
+              "Test::Page helps you to write easily maintainable integration tests using Watir, Selenium or any other testing library by implementing Page Objects pattern.",
+              ""
+            ],
+            [
+              "50",
+              "[@jarmo](https://github.com/jarmo)/[**win32screenshot**](https://github.com/jarmo/win32screenshot)",
+              "Capture Screenshots on Windows with Ruby",
+              ""
+            ],
+            [
+              "43",
+              "[@moll](https://github.com/moll)/[**mina-rsync**](https://github.com/moll/mina-rsync)",
+              "  Deploy with Rsync from any local (or remote) repository when using Mina.",
+              ""
+            ],
+            [
+              "32",
+              "[@take-five](https://github.com/take-five)/[**activerecord-hierarc…**](https://github.com/take-five/activerecord-hierarchical_query)",
+              "Simple DSL for creating recursive queries with ActiveRecord",
+              ""
+            ],
+            [
+              "31",
+              "[@priithaamer](https://github.com/priithaamer)/[**geoip-rails**](https://github.com/priithaamer/geoip-rails)",
+              "MySQL database backed interface to MaxMind's GeoLite City GeoIP information",
+              "[:arrow_upper_right:](https://github.com/priithaamer/geoip-rails)"
+            ],
+            [
+              "25",
+              "[@jarmo](https://github.com/jarmo)/[**WatirSplash**](https://github.com/jarmo/WatirSplash)",
+              "Combining best features of Watir and RSpec for browser-based functional testing.",
+              "[:arrow_upper_right:](http://www.itreallymatters.net)"
+            ],
+            [
+              "25",
+              "[@take-five](https://github.com/take-five)/[**acts_as_ordered_tree**](https://github.com/take-five/acts_as_ordered_tree)",
+              "ActiveRecord extension for ordered adjacency trees support",
+              ""
+            ],
+            [
+              "13",
+              "[@indrekj](https://github.com/indrekj)/[**funky_form**](https://github.com/indrekj/funky_form)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@take-five](https://github.com/take-five)/[**rails-cache-tags**](https://github.com/take-five/rails-cache-tags)",
+              "Tagged caching support for Rails",
+              ""
+            ],
+            [
+              "10",
+              "[@take-five](https://github.com/take-five)/[**segment_tree**](https://github.com/take-five/segment_tree)",
+              "Ruby implementation of segment tree data structure for storing intervals. It allows querying which of the stored segments contain a given point.",
+              ""
+            ],
+            [
+              "9",
+              "[@tarmotalu](https://github.com/tarmotalu)/[**digidoc_client**](https://github.com/tarmotalu/digidoc_client)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@take-five](https://github.com/take-five)/[**ox-mapper**](https://github.com/take-five/ox-mapper)",
+              "simplify creation of parsers based on `ox`",
+              ""
+            ],
+            [
+              "7",
+              "[@JuriKern](https://github.com/JuriKern)/[**capistrano-recipes**](https://github.com/JuriKern/capistrano-recipes)",
+              "Capistrano recipes, Ubuntu 12.04 Edition",
+              ""
+            ],
+            [
+              "7",
+              "[@indrekj](https://github.com/indrekj)/[**irc-jabber-bridge**](https://github.com/indrekj/irc-jabber-bridge)",
+              "Bridge between IRC and Jabber",
+              ""
+            ],
+            [
+              "6",
+              "[@martkaru](https://github.com/martkaru)/[**imagga**](https://github.com/martkaru/imagga)",
+              "Client for Imagga image analytics services",
+              ""
+            ],
+            [
+              "6",
+              "[@take-five](https://github.com/take-five)/[**postgresql-check**](https://github.com/take-five/postgresql-check)",
+              "Adds helpers to migrations and dumps check constraints to schema.rb",
+              ""
+            ],
+            [
+              "5",
+              "[@indrekj](https://github.com/indrekj)/[**guard-slim**](https://github.com/indrekj/guard-slim)",
+              "Guard gem for slim",
+              ""
+            ],
+            [
+              "4",
+              "[@jarmo](https://github.com/jarmo)/[**autotest-doom**](https://github.com/jarmo/autotest-doom)",
+              "autotest plugin for showing bloody Doom grunt when specs are failing",
+              ""
+            ],
+            [
+              "4",
+              "[@priithaamer](https://github.com/priithaamer)/[**railsdictionary**](https://github.com/priithaamer/railsdictionary)",
+              "Rails dictionary for Mac OS X generator",
+              ""
+            ],
+            [
+              "4",
+              "[@indrekj](https://github.com/indrekj)/[**bitbot-trader**](https://github.com/indrekj/bitbot-trader)",
+              "Ruby API for MtGox and Bitstamp",
+              ""
+            ],
+            [
+              "3",
+              "[@priithaamer](https://github.com/priithaamer)/[**podcasts**](https://github.com/priithaamer/podcasts)",
+              "My podcasts generator feed.",
+              ""
+            ],
+            [
+              "3",
+              "[@take-five](https://github.com/take-five)/[**filter**](https://github.com/take-five/filter)",
+              "Ruby Enumerable#filter - extended Enumerable#select combined with Enumerable#collect",
+              ""
+            ],
+            [
+              "3",
+              "[@al3xandr3](https://github.com/al3xandr3)/[**Dashboard**](https://github.com/al3xandr3/Dashboard)",
+              "A little framework for building up interactive html dashboards.",
+              "[:arrow_upper_right:](http://al3xandr3.github.io/dashboards.html)"
+            ],
+            [
+              "3",
+              "[@take-five](https://github.com/take-five)/[**traversal**](https://github.com/take-five/traversal)",
+              "Simple traversal API for pure Ruby objects",
+              ""
+            ],
+            [
+              "3",
+              "[@ajtack](https://github.com/ajtack)/[**css_auto_include**](https://github.com/ajtack/css_auto_include)",
+              "Rails plugin which allows automatic inclusion of CSS files named for the controller and template.",
+              ""
+            ],
+            [
+              "3",
+              "[@priithaamer](https://github.com/priithaamer)/[**rubymotion-estimote**](https://github.com/priithaamer/rubymotion-estimote)",
+              "RubyMotion iOS application template that has minimal required setup to work with Estimote iBeacons.",
+              ""
+            ],
+            [
+              "3",
+              "[@take-five](https://github.com/take-five)/[**yandex_market-parser**](https://github.com/take-five/yandex_market-parser)",
+              "DSL for configuring SAX-based YandexML parser",
+              ""
+            ],
+            [
+              "3",
+              "[@take-five](https://github.com/take-five)/[**deferred_enum**](https://github.com/take-five/deferred_enum)",
+              "Ruby Enumerable extension. Main idea is lazy computations within enumerators.",
+              ""
+            ],
+            [
+              "2",
+              "[@al3xandr3](https://github.com/al3xandr3)/[**ruby**](https://github.com/al3xandr3/ruby)",
+              "collection of ruby util scripts",
+              "[:arrow_upper_right:](http://al3xandr3.github.com/)"
+            ],
+            [
+              "2",
+              "[@ajtack](https://github.com/ajtack)/[**personal-website**](https://github.com/ajtack/personal-website)",
+              "My personal website, eventually including a blog and a list of publications.",
+              "[:arrow_upper_right:](http://pages.cs.wisc.edu/~tack)"
+            ],
+            [
+              "2",
+              "[@JuriKern](https://github.com/JuriKern)/[**ean-rails**](https://github.com/JuriKern/ean-rails)",
+              "Expedia Affiliate Network REST API for RAILS",
+              "[:arrow_upper_right:](https://rubygems.org/gems/ean-rails)"
+            ],
+            [
+              "2",
+              "[@al3xandr3](https://github.com/al3xandr3)/[**daily-extract**](https://github.com/al3xandr3/daily-extract)",
+              "Scripts that automate the process of aggregating data in a database, extracting it, outputting results into csv files and sending them over by sftp.",
+              ""
+            ],
+            [
+              "2",
+              "[@take-five](https://github.com/take-five)/[**config_accessor**](https://github.com/take-five/config_accessor)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@priithaamer](https://github.com/priithaamer)/[**ipizza-omniauth-prov…**](https://github.com/priithaamer/ipizza-omniauth-provider)",
+              "iPizza authentication strategy provider for Omniauth",
               ""
             ]
           ]
