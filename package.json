@@ -59,7 +59,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -1780,6 +1781,27 @@
               "[@mrts](https://github.com/mrts)/[**qparams**](https://github.com/mrts/qparams)",
               "Add add_query_params() to urlparse and urllib.parse (details at the homepage URL below)",
               "[:arrow_upper_right:](http://mail.python.org/pipermail/python-ideas/2009-March/003728.html)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@andybega](https://github.com/andybega)/[**R_utilities**](https://github.com/andybega/R_utilities)",
+              "Useful functions for R, from a poli sci angle",
+              ""
             ]
           ]
         }
