@@ -57,7 +57,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1189,6 +1190,387 @@
               "3",
               "[@kainkalju](https://github.com/kainkalju)/[**kubjas**](https://github.com/kainkalju/kubjas)",
               "cron like periodic job scheduler",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "166",
+              "[@erikuus](https://github.com/erikuus)/[**Yii-Playground**](https://github.com/erikuus/Yii-Playground)",
+              "Yii Framework Widgets and Extensions",
+              "[:arrow_upper_right:](http://www.eha.ee/labs/yiiplay/index.php/en)"
+            ],
+            [
+              "142",
+              "[@tuupola](https://github.com/tuupola)/[**slim-jwt-auth**](https://github.com/tuupola/slim-jwt-auth)",
+              "PSR-7 JWT Authentication Middleware",
+              "[:arrow_upper_right:](http://www.appelsiini.net/projects/slim-jwt-auth)"
+            ],
+            [
+              "139",
+              "[@tuupola](https://github.com/tuupola)/[**slim-basic-auth**](https://github.com/tuupola/slim-basic-auth)",
+              "HTTP Basic Authentication for Slim Framework",
+              "[:arrow_upper_right:](http://www.appelsiini.net/projects/slim-basic-auth)"
+            ],
+            [
+              "86",
+              "[@tuupola](https://github.com/tuupola)/[**php_google_maps**](https://github.com/tuupola/php_google_maps)",
+              "API to help working with Google Static Maps.",
+              "[:arrow_upper_right:](http://www.appelsiini.net/projects/php_google_maps/controls.html)"
+            ],
+            [
+              "80",
+              "[@kristovaher](https://github.com/kristovaher)/[**Wave-Framework**](https://github.com/kristovaher/Wave-Framework)",
+              "Open Source API-centric PHP Micro-framework",
+              "[:arrow_upper_right:](http://www.waveframework.com)"
+            ],
+            [
+              "69",
+              "[@keevitaja](https://github.com/keevitaja)/[**linguist**](https://github.com/keevitaja/linguist)",
+              "Localization support for the Laravel framework",
+              ""
+            ],
+            [
+              "64",
+              "[@keevitaja](https://github.com/keevitaja)/[**keeper-laravel**](https://github.com/keevitaja/keeper-laravel)",
+              "role/permission based authentication package using Guard",
+              ""
+            ],
+            [
+              "30",
+              "[@tuupola](https://github.com/tuupola)/[**slim-image-resize**](https://github.com/tuupola/slim-image-resize)",
+              "Image Resize Middleware for Slim Framework",
+              ""
+            ],
+            [
+              "28",
+              "[@erikuus](https://github.com/erikuus)/[**Yii-Extensions**](https://github.com/erikuus/Yii-Extensions)",
+              "My Collection of Yii Extensions",
+              ""
+            ],
+            [
+              "22",
+              "[@anroots](https://github.com/anroots)/[**kohana-db-acl**](https://github.com/anroots/kohana-db-acl)",
+              "Database-based ACL module for Kohana 3.3.",
+              ""
+            ],
+            [
+              "18",
+              "[@tuupola](https://github.com/tuupola)/[**wolf_assets**](https://github.com/tuupola/wolf_assets)",
+              "Mephisto style assets management for Wolf CMS. This plugin is currently unmaintained. Let me know if you want to take over.",
+              "[:arrow_upper_right:](http://www.appelsiini.net/)"
+            ],
+            [
+              "18",
+              "[@ahtih](https://github.com/ahtih)/[**Geoclustering**](https://github.com/ahtih/Geoclustering)",
+              "A Drupal module to combine thousands of Nodes to node clusters based on their geographic coordinates",
+              ""
+            ],
+            [
+              "16",
+              "[@keevitaja](https://github.com/keevitaja)/[**rulez-laravel**](https://github.com/keevitaja/rulez-laravel)",
+              "input validation service for Laravel 4",
+              ""
+            ],
+            [
+              "15",
+              "[@anroots](https://github.com/anroots)/[**kohana-commoneer**](https://github.com/anroots/kohana-commoneer)",
+              "Extension of the Kohana Framework, adding commonly used features for faster development.",
+              ""
+            ],
+            [
+              "15",
+              "[@tuupola](https://github.com/tuupola)/[**slim-api-skeleton**](https://github.com/tuupola/slim-api-skeleton)",
+              "Slim 3 API skeleton project for Composer",
+              ""
+            ],
+            [
+              "12",
+              "[@tuupola](https://github.com/tuupola)/[**wolf_dashboard**](https://github.com/tuupola/wolf_dashboard)",
+              "Provides simple admin dashboard to Wolf CMS. ",
+              "[:arrow_upper_right:](http://www.appelsiini.net/projects/dashboard)"
+            ],
+            [
+              "12",
+              "[@communitytools](https://github.com/communitytools)/[**Community-Tools**](https://github.com/communitytools/Community-Tools)",
+              "Tools for creating and managing communities (abandoned version)",
+              "[:arrow_upper_right:](http://communitytools.info/)"
+            ],
+            [
+              "10",
+              "[@tuupola](https://github.com/tuupola)/[**witchcraft**](https://github.com/tuupola/witchcraft)",
+              "Opionated PHP magic methods as traits for PHP 5.4+",
+              "[:arrow_upper_right:](http://www.appelsiini.net/2014/witchcraft-for-php)"
+            ],
+            [
+              "10",
+              "[@janar](https://github.com/janar)/[**facebook-php-sdk-exa…**](https://github.com/janar/facebook-php-sdk-example-app)",
+              "Example of facebook iframe app using graph-API calls through php-sdk",
+              "[:arrow_upper_right:](http://eagerfish.eu/example-facebook-iframe-app-using-graph-api-through-php-sdk/)"
+            ],
+            [
+              "9",
+              "[@tuupola](https://github.com/tuupola)/[**wolf_funky_cache**](https://github.com/tuupola/wolf_funky_cache)",
+              "Funky cache plugin for Wolf CMS",
+              "[:arrow_upper_right:](http://www.appelsiini.net/projects/funky_cache)"
+            ],
+            [
+              "9",
+              "[@keevitaja](https://github.com/keevitaja)/[**myseo-pyrocms**](https://github.com/keevitaja/myseo-pyrocms)",
+              "SEO module for PyroCMS",
+              ""
+            ],
+            [
+              "8",
+              "[@tuupola](https://github.com/tuupola)/[**frog_jquery**](https://github.com/tuupola/frog_jquery)",
+              "Add jQuery to Frog CMS admin interface.",
+              "[:arrow_upper_right:](http://www.appelsiini.net/)"
+            ],
+            [
+              "8",
+              "[@tuupola](https://github.com/tuupola)/[**instrument**](https://github.com/tuupola/instrument)",
+              "Application metrics toolbox for InfluxDB",
+              ""
+            ],
+            [
+              "7",
+              "[@cravler](https://github.com/cravler)/[**CravlerMaxMindGeoIpB…**](https://github.com/cravler/CravlerMaxMindGeoIpBundle)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@anroots](https://github.com/anroots)/[**kohana-minion-import…**](https://github.com/anroots/kohana-minion-importer)",
+              "CLI data importer for the Kohana Framework",
+              "[:arrow_upper_right:](https://packagist.org/packages/anroots/minion-importer)"
+            ],
+            [
+              "7",
+              "[@anroots](https://github.com/anroots)/[**kohana-twitter**](https://github.com/anroots/kohana-twitter)",
+              "A example microblog project with Kohana 3",
+              "[:arrow_upper_right:](http://ando.roots.ee/wp/2011/08/thats-how-easy-it-is-to-create-twitter-with-kohana-3/)"
+            ],
+            [
+              "6",
+              "[@anroots](https://github.com/anroots)/[**kohana-diagnostic**](https://github.com/anroots/kohana-diagnostic)",
+              "A diagnostic module for Kohana 3.2 projects",
+              ""
+            ],
+            [
+              "6",
+              "[@communitytools](https://github.com/communitytools)/[**Community-Tools-Core**](https://github.com/communitytools/Community-Tools-Core)",
+              "Community Tools Core module",
+              "[:arrow_upper_right:](http://communitytools.info/)"
+            ],
+            [
+              "5",
+              "[@keevitaja](https://github.com/keevitaja)/[**mci-codeigniter**](https://github.com/keevitaja/mci-codeigniter)",
+              "Multilingual i18n environment for CodeIgniter",
+              ""
+            ],
+            [
+              "5",
+              "[@tuupola](https://github.com/tuupola)/[**frog_email_template**](https://github.com/tuupola/frog_email_template)",
+              "Provides form mailer backend to Frog CMS. This code is no longer maintained. Please go to: https://github.com/dajare/wolf_email_tem…",
+              "[:arrow_upper_right:](http://www.appelsiini.net/)"
+            ],
+            [
+              "5",
+              "[@sergeil](https://github.com/sergeil)/[**SliExtJsIntegrationB…**](https://github.com/sergeil/SliExtJsIntegrationBundle)",
+              "Auxiliary classes for deeper and more seamless integration of ExtJs library on server-side. Provides data mapping and dynamic query building services.",
+              ""
+            ],
+            [
+              "5",
+              "[@tuupola](https://github.com/tuupola)/[**php_record**](https://github.com/tuupola/php_record)",
+              "Simple Active Record implementation in PHP.",
+              ""
+            ],
+            [
+              "5",
+              "[@tuupola](https://github.com/tuupola)/[**wolf_first_child**](https://github.com/tuupola/wolf_first_child)",
+              "Redirect to first child page behaviour for Wolf CMS.",
+              "[:arrow_upper_right:](http://www.appelsiini.net/)"
+            ],
+            [
+              "5",
+              "[@riho](https://github.com/riho)/[**Drupal-Mobiil-ID**](https://github.com/riho/Drupal-Mobiil-ID)",
+              "Drupal module that adds the option to log in using the Estonian Mobiil-ID service",
+              "[:arrow_upper_right:](www.mekaia.com)"
+            ],
+            [
+              "5",
+              "[@riho](https://github.com/riho)/[**Drupal-ID-Card**](https://github.com/riho/Drupal-ID-Card)",
+              "Drupal module that adds the option to log in using the Estonian ID-Card service",
+              "[:arrow_upper_right:](www.mekaia.com)"
+            ],
+            [
+              "5",
+              "[@tuupola](https://github.com/tuupola)/[**cors-middleware**](https://github.com/tuupola/cors-middleware)",
+              "PSR-7 CORS middleware for Slim 3, Zend Expressive et al.",
+              ""
+            ],
+            [
+              "5",
+              "[@janar](https://github.com/janar)/[**facebook-offline-acc…**](https://github.com/janar/facebook-offline-access-example)",
+              "Small script that demonstrates facebook offline_access usage. It collects user access tokens into mysql database and later uses them for batch posting messages onto their walls. ",
+              "[:arrow_upper_right:](http://eagerfish.eu/example-of-facebook-app-which-uses-offline-access-permission)"
+            ],
+            [
+              "4",
+              "[@anroots](https://github.com/anroots)/[**kohana-simple-migrat…**](https://github.com/anroots/kohana-simple-migrations)",
+              "A simplistic MySQL migration module for Kohana, inspired by Java Play framework",
+              ""
+            ],
+            [
+              "4",
+              "[@petskratt](https://github.com/petskratt)/[**Inchoo_Alternate**](https://github.com/petskratt/Inchoo_Alternate)",
+              "Sample rel=alternate hreflang extension from Inchoo blogpost",
+              ""
+            ],
+            [
+              "4",
+              "[@Zedzed](https://github.com/Zedzed)/[**Redisko**](https://github.com/Zedzed/Redisko)",
+              "PHPRedis module for Kohana 3.x",
+              ""
+            ],
+            [
+              "4",
+              "[@miamibc](https://github.com/miamibc)/[**joker-irc-bot**](https://github.com/miamibc/joker-irc-bot)",
+              "PHP class for creatng an IRC bot.",
+              "[:arrow_upper_right:](www.blackcrystal.net)"
+            ],
+            [
+              "4",
+              "[@tuupola](https://github.com/tuupola)/[**wolf_jquery_ui**](https://github.com/tuupola/wolf_jquery_ui)",
+              "Add jQuery UI to Wolf CMS admin interface.",
+              "[:arrow_upper_right:](http://www.appelsiini.net/)"
+            ],
+            [
+              "4",
+              "[@keevitaja](https://github.com/keevitaja)/[**myimages-pyrocms**](https://github.com/keevitaja/myimages-pyrocms)",
+              "Plugin to display images in layout files",
+              ""
+            ],
+            [
+              "4",
+              "[@anroots](https://github.com/anroots)/[**kohana-hapi**](https://github.com/anroots/kohana-hapi)",
+              "HTTP API module for Kohana 3.3 framework",
+              "[:arrow_upper_right:](https://packagist.org/packages/anroots/kohana-hapi)"
+            ],
+            [
+              "4",
+              "[@Siim](https://github.com/Siim)/[**PHP-forum**](https://github.com/Siim/PHP-forum)",
+              "PHP forum ",
+              ""
+            ],
+            [
+              "3",
+              "[@janar](https://github.com/janar)/[**php-ehak-xml-parser**](https://github.com/janar/php-ehak-xml-parser)",
+              "Little class for parsing Classification of Estonian administrative units and settlements xml provided by http://metaweb.stat.ee/",
+              ""
+            ],
+            [
+              "3",
+              "[@Zedzed](https://github.com/Zedzed)/[**Tinyurl**](https://github.com/Zedzed/Tinyurl)",
+              "ShortUrl module for Kohana Framework v3.x",
+              ""
+            ],
+            [
+              "3",
+              "[@lkraav](https://github.com/lkraav)/[**wordpress-pure-css**](https://github.com/lkraav/wordpress-pure-css)",
+              "Provides add_theme_support() handling for loading Pure CSS modules",
+              ""
+            ],
+            [
+              "3",
+              "[@tuupola](https://github.com/tuupola)/[**slim-todo-backend**](https://github.com/tuupola/slim-todo-backend)",
+              "Slim 3 + Spot example for todobackend.com",
+              ""
+            ],
+            [
+              "3",
+              "[@tuupola](https://github.com/tuupola)/[**slim-skeleton**](https://github.com/tuupola/slim-skeleton)",
+              "Slim 3 + Datamapper + Monolog + Plates project for Composer",
+              ""
+            ],
+            [
+              "3",
+              "[@sergeil](https://github.com/sergeil)/[**Moko**](https://github.com/sergeil/Moko)",
+              "A very straightforward mocking toolkit for PHP 5.3+",
+              ""
+            ],
+            [
+              "2",
+              "[@ahtih](https://github.com/ahtih)/[**ldiw_facebook_welcom…**](https://github.com/ahtih/ldiw_facebook_welcome_app)",
+              "Welcome app for LDIW Facebook Page",
+              "[:arrow_upper_right:](http://www.facebook.com/letsdoitworld)"
+            ],
+            [
+              "2",
+              "[@miamibc](https://github.com/miamibc)/[**sfDoctrineCultureFla…**](https://github.com/miamibc/sfDoctrineCultureFlagsPlugin)",
+              "Simple, but powerful language switcher",
+              "[:arrow_upper_right:](www.blackcrystal.net)"
+            ],
+            [
+              "2",
+              "[@anroots](https://github.com/anroots)/[**wp-theatre-troupe**](https://github.com/anroots/wp-theatre-troupe)",
+              "A Wordpress plugin for small performing groups for listing shows and associated actors.",
+              ""
+            ],
+            [
+              "2",
+              "[@lkraav](https://github.com/lkraav)/[**davical-rss-feature-…**](https://github.com/lkraav/davical-rss-feature-branch)",
+              "provide ability for DAViCal to serve RSS and ATOM feeds of CalDAV calendars",
+              "[:arrow_upper_right:](http://wiki.davical.org/w/Main_Page)"
+            ],
+            [
+              "2",
+              "[@Siim](https://github.com/Siim)/[**routec**](https://github.com/Siim/routec)",
+              "PHP URI Router",
+              ""
+            ],
+            [
+              "2",
+              "[@janar](https://github.com/janar)/[**bank-payment-php-lib…**](https://github.com/janar/bank-payment-php-library)",
+              "Payment component written in PHP to create estonian banklinks. Komponent eesti pangalinkide tegemiseks. ",
+              ""
+            ],
+            [
+              "2",
+              "[@tuupola](https://github.com/tuupola)/[**wolf_jquery_tools**](https://github.com/tuupola/wolf_jquery_tools)",
+              "Add jQuery Tools to Wolf CMS admin interface.",
+              "[:arrow_upper_right:](http://www.appelsiini.net/)"
+            ],
+            [
+              "2",
+              "[@sergeil](https://github.com/sergeil)/[**ExpanderBundle**](https://github.com/sergeil/ExpanderBundle)",
+              "Bundle makes it easy to create extensible bundles by providing a universal extension-points architecture.",
+              ""
+            ],
+            [
+              "2",
+              "[@sergeil](https://github.com/sergeil)/[**Vobla**](https://github.com/sergeil/Vobla)",
+              "NON PRODUCTION READY YET | A fully-fledged dependency injection container for PHP5.3+",
+              "[:arrow_upper_right:](http://vobla-project.org)"
+            ],
+            [
+              "2",
+              "[@tuupola](https://github.com/tuupola)/[**beeper**](https://github.com/tuupola/beeper)",
+              "Generic paginator for PHP 5.4+",
               ""
             ]
           ]
