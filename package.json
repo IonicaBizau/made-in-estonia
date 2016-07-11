@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -919,6 +920,45 @@
               "2",
               "[@berkus](https://github.com/berkus)/[**opus**](https://github.com/berkus/opus)",
               "OPUS audio codec, patched up and with CMake build setup",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "15",
+              "[@tonuonu](https://github.com/tonuonu)/[**OpenLicencePlate**](https://github.com/tonuonu/OpenLicencePlate)",
+              "Open Source Licence Plate Recognition library",
+              ""
+            ],
+            [
+              "5",
+              "[@sim642](https://github.com/sim642)/[**calculate**](https://github.com/sim642/calculate)",
+              "Expression evaluator using shunting-yard algorithm and RPN.",
+              ""
+            ],
+            [
+              "2",
+              "[@sim642](https://github.com/sim642)/[**AirTraffic**](https://github.com/sim642/AirTraffic)",
+              "Single- and multiplayer game about being an air traffic controller",
+              ""
+            ],
+            [
+              "2",
+              "[@sim642](https://github.com/sim642)/[**p0rtalSnake**](https://github.com/sim642/p0rtalSnake)",
+              "Snake game that includes portals",
               ""
             ]
           ]
