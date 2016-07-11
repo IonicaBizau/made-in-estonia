@@ -61,7 +61,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -2051,6 +2052,69 @@
               "2",
               "[@priithaamer](https://github.com/priithaamer)/[**ipizza-omniauth-prov…**](https://github.com/priithaamer/ipizza-omniauth-provider)",
               "iPizza authentication strategy provider for Omniauth",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "24",
+              "[@Villane](https://github.com/Villane)/[**scalabox2d**](https://github.com/Villane/scalabox2d)",
+              "Scala port of JBox2D",
+              "[:arrow_upper_right:](http://villane.org)"
+            ],
+            [
+              "8",
+              "[@Villane](https://github.com/Villane)/[**mixfix-parsers**](https://github.com/Villane/mixfix-parsers)",
+              "Mixfix add-on for Scala parser combinators",
+              ""
+            ],
+            [
+              "5",
+              "[@Villane](https://github.com/Villane)/[**lambdacalculus**](https://github.com/Villane/lambdacalculus)",
+              "Lambda calculus implementation in Scala",
+              ""
+            ],
+            [
+              "3",
+              "[@Villane](https://github.com/Villane)/[**scala-http-server-ex…**](https://github.com/Villane/scala-http-server-example)",
+              "Scala HTTP Server Example (RebelLabs)",
+              ""
+            ],
+            [
+              "3",
+              "[@Villane](https://github.com/Villane)/[**vecmath**](https://github.com/Villane/vecmath)",
+              "2D Vector Math Library for Games",
+              "[:arrow_upper_right:](http://villane.org)"
+            ],
+            [
+              "2",
+              "[@margusf](https://github.com/margusf)/[**puf**](https://github.com/margusf/puf)",
+              "Simple functional language",
+              ""
+            ],
+            [
+              "2",
+              "[@Villane](https://github.com/Villane)/[**geckoboard-scala**](https://github.com/Villane/geckoboard-scala)",
+              "Geckoboard API for Scala",
+              ""
+            ],
+            [
+              "2",
+              "[@Villane](https://github.com/Villane)/[**paw**](https://github.com/Villane/paw)",
+              "Scala based libraries for (web) application development",
               ""
             ]
           ]
