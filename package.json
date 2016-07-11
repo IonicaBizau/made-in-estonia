@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -803,6 +804,33 @@
               "2",
               "[@kasparvihm](https://github.com/kasparvihm)/[**LightLess**](https://github.com/kasparvihm/LightLess)",
               "Lightless UI",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@alvatal](https://github.com/alvatal)/[**alvatal.github.io**](https://github.com/alvatal/alvatal.github.io)",
+              "Homepage",
+              ""
+            ],
+            [
+              "2",
+              "[@raxsade](https://github.com/raxsade)/[**youtube-embedder**](https://github.com/raxsade/youtube-embedder)",
+              "Compiles an advanced html snippet for embedding a YouTube player on a web page",
               ""
             ]
           ]
