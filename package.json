@@ -56,7 +56,8 @@
           "[ActionScript](#actionscript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -1131,6 +1132,63 @@
               "2",
               "[@laevandus](https://github.com/laevandus)/[**MyTunesControllerPlu…**](https://github.com/laevandus/MyTunesControllerPlugIns)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "92",
+              "[@FastVPSEestiOu](https://github.com/FastVPSEestiOu)/[**Antidoto**](https://github.com/FastVPSEestiOu/Antidoto)",
+              "Linux antimalware and antirootkit tool",
+              "[:arrow_upper_right:](https://github.com/FastVPSEestiOu/Antidoto)"
+            ],
+            [
+              "19",
+              "[@FastVPSEestiOu](https://github.com/FastVPSEestiOu)/[**openvz-network-shape…**](https://github.com/FastVPSEestiOu/openvz-network-shaper)",
+              "Network bandwidth shaper for OpenVZ/PCS/Virtuozzo with IPv6 and hash filter features",
+              ""
+            ],
+            [
+              "18",
+              "[@FastVPSEestiOu](https://github.com/FastVPSEestiOu)/[**storage-system-monit…**](https://github.com/FastVPSEestiOu/storage-system-monitoring)",
+              "Toolkit for checking health of different storage systems: linux software raids, hardware raids (Adaptec, LSI) and dmesg",
+              ""
+            ],
+            [
+              "8",
+              "[@FastVPSEestiOu](https://github.com/FastVPSEestiOu)/[**open_vestat**](https://github.com/FastVPSEestiOu/open_vestat)",
+              "script for output top 20 openvz containers for cpu/disk usage",
+              ""
+            ],
+            [
+              "8",
+              "[@FastVPSEestiOu](https://github.com/FastVPSEestiOu)/[**vzrepair**](https://github.com/FastVPSEestiOu/vzrepair)",
+              "script for boot OpenVZ container to repair mode",
+              ""
+            ],
+            [
+              "6",
+              "[@jjpp](https://github.com/jjpp)/[**plamk**](https://github.com/jjpp/plamk)",
+              "Praktiline Lõplikel Automaatidel põhinev Morfoloogiakirjeldus",
+              ""
+            ],
+            [
+              "3",
+              "[@kainkalju](https://github.com/kainkalju)/[**kubjas**](https://github.com/kainkalju/kubjas)",
+              "cron like periodic job scheduler",
               ""
             ]
           ]
