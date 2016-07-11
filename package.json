@@ -58,7 +58,8 @@
           "[Haskell](#haskell)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1572,6 +1573,213 @@
               "[@tuupola](https://github.com/tuupola)/[**beeper**](https://github.com/tuupola/beeper)",
               "Generic paginator for PHP 5.4+",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "21",
+              "[@riivo](https://github.com/riivo)/[**pwum**](https://github.com/riivo/pwum)",
+              "Python web usage mining library",
+              ""
+            ],
+            [
+              "19",
+              "[@eallik](https://github.com/eallik)/[**spinoff**](https://github.com/eallik/spinoff)",
+              "THIS REPO IS UNMAINTAINED. Spinoff is a framework for writing distributed, fault tolerant and scalable applications in Python. Spinoff is based on the Actor Model and borrows from Akka (location transparency, actor references, etc) and Erlang (process-like actors).  ",
+              ""
+            ],
+            [
+              "17",
+              "[@konstantint](https://github.com/konstantint)/[**pyliftover**](https://github.com/konstantint/pyliftover)",
+              "Pure-python implementation of UCSC liftOver genome coordinate conversion",
+              ""
+            ],
+            [
+              "16",
+              "[@mrts](https://github.com/mrts)/[**migrate-imap-account…**](https://github.com/mrts/migrate-imap-account-to-gmail)",
+              "Migrate mail from IMAP server account to GMail account",
+              ""
+            ],
+            [
+              "14",
+              "[@konstantint](https://github.com/konstantint)/[**skype-chatsync-reade…**](https://github.com/konstantint/skype-chatsync-reader)",
+              "Parser and GUI viewer of chatsync/\\*.dat files from the Skype profile directory",
+              ""
+            ],
+            [
+              "14",
+              "[@mrts](https://github.com/mrts)/[**django-commands**](https://github.com/mrts/django-commands)",
+              "Management commands for Django: clear database, backup database, load database from backup, clear cache.",
+              ""
+            ],
+            [
+              "12",
+              "[@livenson](https://github.com/livenson)/[**vcdm**](https://github.com/livenson/vcdm)",
+              "CDMI-Proxy provides CDMI-compliant proxy server to public cloud backends.",
+              ""
+            ],
+            [
+              "10",
+              "[@konstantint](https://github.com/konstantint)/[**python-boilerplate-t…**](https://github.com/konstantint/python-boilerplate-template)",
+              "PasteScript template for initializing a new buildout/pytest/travis/setuptools-enable… Python project",
+              "[:arrow_upper_right:](http://fouryears.eu/2014/03/19/structure-of-a-python-project/)"
+            ],
+            [
+              "8",
+              "[@argoroots](https://github.com/argoroots)/[**Entu**](https://github.com/argoroots/Entu)",
+              "Futuristic Data Management System",
+              "[:arrow_upper_right:](www.entu.ee)"
+            ],
+            [
+              "8",
+              "[@shelajev](https://github.com/shelajev)/[**ut.parallel_computin…**](https://github.com/shelajev/ut.parallel_computing_2010_project)",
+              "",
+              "[:arrow_upper_right:](ut.pc.2010_project_py)"
+            ],
+            [
+              "8",
+              "[@eallik](https://github.com/eallik)/[**txcoroutine**](https://github.com/eallik/txcoroutine)",
+              "Fuller coroutine support for Twisted than inlineCallbacks + memory efficient tail call optimization",
+              ""
+            ],
+            [
+              "7",
+              "[@mrts](https://github.com/mrts)/[**django-deploy**](https://github.com/mrts/django-deploy)",
+              "Automatic remote deployment of Django projects with Fabric as well as environment setup and development process guidelines.",
+              ""
+            ],
+            [
+              "7",
+              "[@nicholasamorim](https://github.com/nicholasamorim)/[**txsh**](https://github.com/nicholasamorim/txsh)",
+              "txsh - asynchronous practical shell",
+              ""
+            ],
+            [
+              "5",
+              "[@mrts](https://github.com/mrts)/[**ubuntu-old-kernel-cl…**](https://github.com/mrts/ubuntu-old-kernel-cleanup)",
+              "Script that helps to remove unused kernels from an Ubuntu (and possibly also Debian) Linux system",
+              ""
+            ],
+            [
+              "4",
+              "[@mrts](https://github.com/mrts)/[**plugit**](https://github.com/mrts/plugit)",
+              "A framework for installing applications. See http://wiki.python.org/moin/ApplicationI… for specifics.",
+              "[:arrow_upper_right:](http://wiki.python.org/moin/ApplicationInfrastructure)"
+            ],
+            [
+              "4",
+              "[@macobo](https://github.com/macobo)/[**python-grader**](https://github.com/macobo/python-grader)",
+              "Python >= 3.3 automatic grader",
+              ""
+            ],
+            [
+              "3",
+              "[@madisvain](https://github.com/madisvain)/[**butler**](https://github.com/madisvain/butler)",
+              "Python deployment automation",
+              ""
+            ],
+            [
+              "3",
+              "[@konstantint](https://github.com/konstantint)/[**intervaltree-bio**](https://github.com/konstantint/intervaltree-bio)",
+              "Interval tree convenience classes for genomic data",
+              ""
+            ],
+            [
+              "3",
+              "[@kristiank](https://github.com/kristiank)/[**Lausestaja**](https://github.com/kristiank/Lausestaja)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@kristiank](https://github.com/kristiank)/[**EstNLTK**](https://github.com/kristiank/EstNLTK)",
+              "Python API erinevatele (eesti) keeletehnoloogilistele vidinatele",
+              ""
+            ],
+            [
+              "3",
+              "[@artizirk](https://github.com/artizirk)/[**tunniplaan.arti.ee**](https://github.com/artizirk/tunniplaan.arti.ee)",
+              "Tunniplaani rakendus, mis võimaldab Väike-Maarja Õppekeskuse ja Gümnaasiumi tunniplaane vaadata ilma Flash Playerita",
+              "[:arrow_upper_right:](http://tunniplaan.arti.ee/)"
+            ],
+            [
+              "3",
+              "[@macobo](https://github.com/macobo)/[**sqlcomplete**](https://github.com/macobo/sqlcomplete)",
+              "Smart autocomplete for sql",
+              ""
+            ],
+            [
+              "2",
+              "[@nicholasamorim](https://github.com/nicholasamorim)/[**chuk**](https://github.com/nicholasamorim/chuk)",
+              "Company House UK - Python Client",
+              ""
+            ],
+            [
+              "2",
+              "[@konstantint](https://github.com/konstantint)/[**PyENCODE**](https://github.com/konstantint/PyENCODE)",
+              "Python convenience package for accessing ENCODE (Encyclopedia of DNA Elements) project data at UCSC",
+              ""
+            ],
+            [
+              "2",
+              "[@konstantint](https://github.com/konstantint)/[**RobotexSimulator2011**](https://github.com/konstantint/RobotexSimulator2011)",
+              "Simulator for the Robotex 2011",
+              ""
+            ],
+            [
+              "2",
+              "[@argoroots](https://github.com/argoroots)/[**ARXradio**](https://github.com/argoroots/ARXradio)",
+              "Internet radio for 22 Estonian radio (and 2 tv) stations.",
+              ""
+            ],
+            [
+              "2",
+              "[@livenson](https://github.com/livenson)/[**libcdmi-python**](https://github.com/livenson/libcdmi-python)",
+              "CDMI client library in Python",
+              ""
+            ],
+            [
+              "2",
+              "[@livenson](https://github.com/livenson)/[**opennode-demo-api**](https://github.com/livenson/opennode-demo-api)",
+              "Demo API for Opennode",
+              ""
+            ],
+            [
+              "2",
+              "[@livenson](https://github.com/livenson)/[**ocmi-tester**](https://github.com/livenson/ocmi-tester)",
+              "A TUI tester for OCCI and CDMI servers",
+              ""
+            ],
+            [
+              "2",
+              "[@mikroskeem](https://github.com/mikroskeem)/[**nightsnack**](https://github.com/mikroskeem/nightsnack)",
+              "Eat snacks at night and don't waste your time on downloading music from YouTube",
+              "[:arrow_upper_right:](http://nightsnack.cf)"
+            ],
+            [
+              "2",
+              "[@mrts](https://github.com/mrts)/[**cve_tracker**](https://github.com/mrts/cve_tracker)",
+              "Python CVE tracker",
+              ""
+            ],
+            [
+              "2",
+              "[@mrts](https://github.com/mrts)/[**qparams**](https://github.com/mrts/qparams)",
+              "Add add_query_params() to urlparse and urllib.parse (details at the homepage URL below)",
+              "[:arrow_upper_right:](http://mail.python.org/pipermail/python-ideas/2009-March/003728.html)"
             ]
           ]
         }
