@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -1033,6 +1034,27 @@
               "2",
               "[@toggl](https://github.com/toggl)/[**go-freshbooks**](https://github.com/toggl/go-freshbooks)",
               "This project implements a golang client library for the Freshbooks API",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@MastaP](https://github.com/MastaP)/[**ATP-in-Haskell**](https://github.com/MastaP/ATP-in-Haskell)",
+              "A playground for implementing automated theorem provers in Haskell",
               ""
             ]
           ]
