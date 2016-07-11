@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -960,6 +961,27 @@
               "[@sim642](https://github.com/sim642)/[**p0rtalSnake**](https://github.com/sim642/p0rtalSnake)",
               "Snake game that includes portals",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@bsideup](https://github.com/bsideup)/[**TrylogicFramework**](https://github.com/bsideup/TrylogicFramework)",
+              "flex-like (non flex-based) ActionScript framework for web development (games, social, etc)",
+              "[:arrow_upper_right:](http://www.trylogic.ru/)"
             ]
           ]
         }
