@@ -1,16 +1,9 @@
 
-# made-in-estonia
+# Made in Estonia
 
  [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-estonia.svg)](https://www.npmjs.com/package/made-in-estonia) [![Downloads](https://img.shields.io/npm/dt/made-in-estonia.svg)](https://www.npmjs.com/package/made-in-estonia) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A list of neat projects made in Estonia
-
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-estonia
-```
-
 
 ## Contents
 
@@ -393,31 +386,6 @@ $ npm i --save made-in-estonia
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 19 | [@jbibtex](https://github.com/jbibtex)/[**jbibtex**](https://github.com/jbibtex/jbibtex) | Java BibTeX API |
-
-## :clipboard: Example
-
-
-
-```js
-const madeInEstonia = require("made-in-estonia");
-
-console.log(madeInEstonia());
-```
-
-## :memo: Documentation
-
-
-### `madeInEstonia(a, b)`
-A list of neat projects made in Estonia
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
-
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
