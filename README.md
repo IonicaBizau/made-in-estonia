@@ -26,6 +26,7 @@
  - [Scala](#scala)
  - [Shell](#shell)
  - [TeX](#tex)
+
 ### JavaScript #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
