@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -30,6 +31,7 @@
  - [TeX](#tex)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1416 | [@andris9](https://github.com/andris9)/[**jStorage**](https://github.com/andris9/jStorage) | jStorage is a simple key/value database to store data on browser side | [:arrow_upper_right:](http://www.jstorage.info)
@@ -117,7 +119,9 @@
 2 | [@rla](https://github.com/rla)/[**concatter**](https://github.com/rla/concatter) | Single-file app js concat utility |
 2 | [@nene](https://github.com/nene)/[**rewriter**](https://github.com/nene/rewriter) | A proof-of-concept JavaScript compiler that optimizes the speed of array iteration. |
 2 | [@DeadAlready](https://github.com/DeadAlready)/[**node-foldermap**](https://github.com/DeadAlready/node-foldermap) |  |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 153 | [@madisp](https://github.com/madisp)/[**pretty**](https://github.com/madisp/pretty) | A convenience library to process View attributes in Android layout files at runtime. |
@@ -144,7 +148,9 @@
 2 | [@lsaffre](https://github.com/lsaffre)/[**eidreader**](https://github.com/lsaffre/eidreader) | International eID card reader |
 2 | [@madisp](https://github.com/madisp)/[**divide-and-conquer**](https://github.com/madisp/divide-and-conquer) | A fork of the Divide and Conquer Android sample game |
 2 | [@toomasr](https://github.com/toomasr)/[**lazy-dev-snippets**](https://github.com/toomasr/lazy-dev-snippets) | Snippets for the Lazy Developers |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 33 | [@discosultan](https://github.com/discosultan)/[**penumbra**](https://github.com/discosultan/penumbra) | 2D lighting with soft shadows for MonoGame |
@@ -153,16 +159,22 @@
 6 | [@gpeipman](https://github.com/gpeipman)/[**Windows-Phone-7-Expe…**](https://github.com/gpeipman/Windows-Phone-7-Experiments) | My Windows Phone 7 experiments and examples | [:arrow_upper_right:](http://weblogs.asp.net/gunnarpeipman)
 5 | [@sandersaares](https://github.com/sandersaares)/[**nuget-package-author…**](https://github.com/sandersaares/nuget-package-authoring) | Example code to illustrate the authoring of NuGet packages |
 4 | [@sala91](https://github.com/sala91)/[**word.NET**](https://github.com/sala91/word.NET) | ASP.net blogengine |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@kasparvihm](https://github.com/kasparvihm)/[**LightLess**](https://github.com/kasparvihm/LightLess) | Lightless UI |
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@alvatal](https://github.com/alvatal)/[**alvatal.github.io**](https://github.com/alvatal/alvatal.github.io) | Homepage |
 2 | [@raxsade](https://github.com/raxsade)/[**youtube-embedder**](https://github.com/raxsade/youtube-embedder) | Compiles an advanced html snippet for embedding a YouTube player on a web page |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 20 | [@berkus](https://github.com/berkus)/[**libnat**](https://github.com/berkus/libnat) | Libraries for NAT traversal and hole punching |
@@ -177,18 +189,24 @@
 2 | [@berkus](https://github.com/berkus)/[**anic**](https://github.com/berkus/anic) | Automatically exported from code.google.com/p/anic |
 2 | [@ErintLabs](https://github.com/ErintLabs)/[**SDL_image**](https://github.com/ErintLabs/SDL_image) | An up-to-date SDL_image repository unofficial git mirror. Will be maintained until Git starts supporting foreign submodules. |
 2 | [@berkus](https://github.com/berkus)/[**opus**](https://github.com/berkus/opus) | OPUS audio codec, patched up and with CMake build setup |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 15 | [@tonuonu](https://github.com/tonuonu)/[**OpenLicencePlate**](https://github.com/tonuonu/OpenLicencePlate) | Open Source Licence Plate Recognition library |
 5 | [@sim642](https://github.com/sim642)/[**calculate**](https://github.com/sim642/calculate) | Expression evaluator using shunting-yard algorithm and RPN. |
 2 | [@sim642](https://github.com/sim642)/[**AirTraffic**](https://github.com/sim642/AirTraffic) | Single- and multiplayer game about being an air traffic controller |
 2 | [@sim642](https://github.com/sim642)/[**p0rtalSnake**](https://github.com/sim642/p0rtalSnake) | Snake game that includes portals |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@bsideup](https://github.com/bsideup)/[**TrylogicFramework**](https://github.com/bsideup/TrylogicFramework) | flex-like (non flex-based) ActionScript framework for web development (games, social, etc) | [:arrow_upper_right:](http://www.trylogic.ru/)
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 17 | [@toggl](https://github.com/toggl)/[**pipes-api**](https://github.com/toggl/pipes-api) | Pipes API |
@@ -197,11 +215,15 @@
 5 | [@toggl](https://github.com/toggl)/[**mango**](https://github.com/toggl/mango) | Mango imports data from third party services into Toggl |
 4 | [@toggl](https://github.com/toggl)/[**bugsnag**](https://github.com/toggl/bugsnag) | bugsnag.com API client in Go |
 2 | [@toggl](https://github.com/toggl)/[**go-freshbooks**](https://github.com/toggl/go-freshbooks) | This project implements a golang client library for the Freshbooks API |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@MastaP](https://github.com/MastaP)/[**ATP-in-Haskell**](https://github.com/MastaP/ATP-in-Haskell) | A playground for implementing automated theorem provers in Haskell |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 24 | [@henrinormak](https://github.com/henrinormak)/[**NORMarkdownParser**](https://github.com/henrinormak/NORMarkdownParser) | A lightweight wrapper around the hoedown Markdown parser, turning Markdown into NSAttributedString. |
@@ -214,7 +236,9 @@
 3 | [@henrinormak](https://github.com/henrinormak)/[**UITokenTextField**](https://github.com/henrinormak/UITokenTextField) | UITokenTextField is a simple UIControl, that allows iOS |
 2 | [@jaanussiim](https://github.com/jaanussiim)/[**ios-demo-lifter**](https://github.com/jaanussiim/ios-demo-lifter) | Demo project for 'floating' map annotations |
 2 | [@laevandus](https://github.com/laevandus)/[**MyTunesControllerPlu…**](https://github.com/laevandus/MyTunesControllerPlugIns) |  |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 92 | [@FastVPSEestiOu](https://github.com/FastVPSEestiOu)/[**Antidoto**](https://github.com/FastVPSEestiOu/Antidoto) | Linux antimalware and antirootkit tool | [:arrow_upper_right:](https://github.com/FastVPSEestiOu/Antidoto)
@@ -224,7 +248,9 @@
 8 | [@FastVPSEestiOu](https://github.com/FastVPSEestiOu)/[**vzrepair**](https://github.com/FastVPSEestiOu/vzrepair) | script for boot OpenVZ container to repair mode |
 6 | [@jjpp](https://github.com/jjpp)/[**plamk**](https://github.com/jjpp/plamk) | Praktiline Lõplikel Automaatidel põhinev Morfoloogiakirjeldus |
 3 | [@kainkalju](https://github.com/kainkalju)/[**kubjas**](https://github.com/kainkalju/kubjas) | cron like periodic job scheduler |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 166 | [@erikuus](https://github.com/erikuus)/[**Yii-Playground**](https://github.com/erikuus/Yii-Playground) | Yii Framework Widgets and Extensions | [:arrow_upper_right:](http://www.eha.ee/labs/yiiplay/index.php/en)
@@ -288,7 +314,9 @@
 2 | [@sergeil](https://github.com/sergeil)/[**ExpanderBundle**](https://github.com/sergeil/ExpanderBundle) | Bundle makes it easy to create extensible bundles by providing a universal extension-points architecture. |
 2 | [@sergeil](https://github.com/sergeil)/[**Vobla**](https://github.com/sergeil/Vobla) | NON PRODUCTION READY YET | A fully-fledged dependency injection container for PHP5.3+ | [:arrow_upper_right:](http://vobla-project.org)
 2 | [@tuupola](https://github.com/tuupola)/[**beeper**](https://github.com/tuupola/beeper) | Generic paginator for PHP 5.4+ |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 21 | [@riivo](https://github.com/riivo)/[**pwum**](https://github.com/riivo/pwum) | Python web usage mining library |
@@ -323,11 +351,15 @@
 2 | [@mikroskeem](https://github.com/mikroskeem)/[**nightsnack**](https://github.com/mikroskeem/nightsnack) | Eat snacks at night and don't waste your time on downloading music from YouTube | [:arrow_upper_right:](http://nightsnack.cf)
 2 | [@mrts](https://github.com/mrts)/[**cve_tracker**](https://github.com/mrts/cve_tracker) | Python CVE tracker |
 2 | [@mrts](https://github.com/mrts)/[**qparams**](https://github.com/mrts/qparams) | Add add_query_params() to urlparse and urllib.parse (details at the homepage URL below) | [:arrow_upper_right:](http://mail.python.org/pipermail/python-ideas/2009-March/003728.html)
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@andybega](https://github.com/andybega)/[**R_utilities**](https://github.com/andybega/R_utilities) | Useful functions for R, from a poli sci angle |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 487 | [@moll](https://github.com/moll)/[**vim-node**](https://github.com/moll/vim-node) | Tools and environment to make Vim superb for developing with Node.js. Like Rails.vim for Node. | [:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4674)
@@ -369,7 +401,9 @@
 2 | [@al3xandr3](https://github.com/al3xandr3)/[**daily-extract**](https://github.com/al3xandr3/daily-extract) | Scripts that automate the process of aggregating data in a database, extracting it, outputting results into csv files and sending them over by sftp. |
 2 | [@take-five](https://github.com/take-five)/[**config_accessor**](https://github.com/take-five/config_accessor) |  |
 2 | [@priithaamer](https://github.com/priithaamer)/[**ipizza-omniauth-prov…**](https://github.com/priithaamer/ipizza-omniauth-provider) | iPizza authentication strategy provider for Omniauth |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 24 | [@Villane](https://github.com/Villane)/[**scalabox2d**](https://github.com/Villane/scalabox2d) | Scala port of JBox2D | [:arrow_upper_right:](http://villane.org)
@@ -380,14 +414,19 @@
 2 | [@margusf](https://github.com/margusf)/[**puf**](https://github.com/margusf/puf) | Simple functional language |
 2 | [@Villane](https://github.com/Villane)/[**geckoboard-scala**](https://github.com/Villane/geckoboard-scala) | Geckoboard API for Scala |
 2 | [@Villane](https://github.com/Villane)/[**paw**](https://github.com/Villane/paw) | Scala based libraries for (web) application development |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5 | [@usrme](https://github.com/usrme)/[**ghost-update**](https://github.com/usrme/ghost-update) | Ghost updating script |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 19 | [@jbibtex](https://github.com/jbibtex)/[**jbibtex**](https://github.com/jbibtex/jbibtex) | Java BibTeX API |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
